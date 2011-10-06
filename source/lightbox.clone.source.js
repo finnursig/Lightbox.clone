@@ -565,34 +565,3 @@ var LightBoxClone = new Class({
 window.addEvent('domready', function(){
 	var lightboxclone = new LightBoxClone();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
