@@ -566,35 +566,6 @@ window.addEvent('domready', function(){
 	var lightboxclone = new LightBoxClone();
 });
 
-/*
-Todo:
-	Keep thumbnail on screen when changing image (automatic scrolling)
-	Youtube support?
-	css3 transitions/animation instead of JS if browser supports
-	
-Change Log:
-	
-	0.5:
-		new: added css classes for optional styling
-		new: Overlay support
-		bug: loading indicator not positioned correctly when scrolled
-	
-	0.4:
-		Custom Events: onOpen, onLoad, onClose
-		Keyboard support: Left, Right, Esc
-		
-	0.3
-		new: Gallery support
-		bug: fixed non-transparent background on text element
-	
-	0.2:
-		bugfix
-		
-	0.1:
-		initial release
-
-*/
-
 
 
 
